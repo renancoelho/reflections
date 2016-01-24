@@ -1,0 +1,1 @@
+These are my reflections regarding the git github class at udacity.
